@@ -1,0 +1,6 @@
+{
+  "name": "RoboMatrix - Autonomous Systems & Robotics",
+  "description": "Enterprise web portal for RoboMatrix software consultancy specializing in industrial automation, robotics integration, agentic RAG, and kinematics synthesis founded by Dr. S. Ganeshkumar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
